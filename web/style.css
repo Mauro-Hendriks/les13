@@ -1,0 +1,43 @@
+.cheat{
+    background-color: #2A9D8F;
+    color: #264653;
+    border: 20px #E76F51;
+    padding: 20px;
+}
+
+
+ body {
+    background-color: #F4A261;
+  }
+  h1 {
+    color: #264653;
+  }
+  h2 {
+    color: #264653;
+  }
+
+#mainMenu {
+	margin:10px;
+	width:900px;
+	font-family: sans-serif;
+}
+#mainMenu li {
+	display:block;
+	width:180px;
+	float:left;
+	margin-left:2px;
+	border:1px solid #000;
+}
+
+#mainMenu a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color:#E9C46A;
+	color:#009;
+}
+
+#mainMenu a:hover {
+	background-color:#E76F51;
+	color:#fff;
+}  
